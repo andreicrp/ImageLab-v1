@@ -1,3 +1,9 @@
+<?php
+$base_url = rtrim(str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'])), '/');
+if (substr($base_url, -7) === '/public') {
+    $base_url = substr($base_url, 0, -7);
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,12 +30,6 @@
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     
-    <?php
-    $base_url = rtrim(str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME'])), '/');
-    if (substr($base_url, -7) === '/public') {
-        $base_url = substr($base_url, 0, -7);
-    }
-    ?>
     <!-- Custom Style Sheet -->
     <link rel="stylesheet" href="<?= $base_url ?>/assets/css/style.css">
     
