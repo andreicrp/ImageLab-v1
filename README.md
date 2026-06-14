@@ -1,10 +1,23 @@
 # 🖼️ ImageLab: AI-Powered Image Processing, Editing, and Optimization Suite
 
-[![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
-[![ImageMagick](https://img.shields.io/badge/ImageMagick-Latest-blue?style=for-the-badge)](https://imagemagick.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-AI%20Service-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-Latest-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Latest-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Fabric.js](https://img.shields.io/badge/Fabric.js-Canvas%20Editor-FF6B6B?style=for-the-badge)](https://fabricjs.com/)
+[![ImageMagick](https://img.shields.io/badge/ImageMagick-Latest-4285F4?style=for-the-badge)](https://imagemagick.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-AI%20Service-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Real--ESRGAN](https://img.shields.io/badge/Real--ESRGAN-AI%20Upscaling-00C853?style=for-the-badge)](https://github.com/xinntao/Real-ESRGAN)
+[![GFPGAN](https://img.shields.io/badge/GFPGAN-Face%20Restoration-FF9800?style=for-the-badge)](https://github.com/TencentARC/GFPGAN)
+[![XAMPP](https://img.shields.io/badge/XAMPP-Development%20Environment-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 > A professional image processing and optimization platform that combines image conversion, compression, resizing, enhancement, interactive editing, and AI-powered image restoration into a unified workflow.
 
