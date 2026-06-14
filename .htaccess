@@ -1,0 +1,20 @@
+# Enable Rewrite Engine
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Set rewrite base if needed
+    # RewriteBase /
+
+    # Direct requests to existing files/folders directly (such as assets or API stubs)
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # Redirect all other requests to public/index.php for routing
+    RewriteRule ^(.*)$ public/index.php [L]
+</IfModule>
+
+# Basic security configuration
+<IfModule mod_autoindex.c>
+    Options -Indexes
+</IfModule>

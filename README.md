@@ -352,8 +352,7 @@ imagelab/
 │   ├── face_enhance.py
 │   ├── background_remove.py
 │   └── quality_score.py
-├── database/
-│   └── imagelab.sql
+├── imagelab_sql.sql
 └── README.md
 ```
 
@@ -429,7 +428,7 @@ CREATE DATABASE imagelab;
 3. Import:
 
 ```text
-database/imagelab.sql
+imagelab_sql.sql
 ```
 
 4. Configure database credentials:

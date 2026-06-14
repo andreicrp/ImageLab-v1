@@ -1,0 +1,28 @@
+# Python Virtual Environment and cache
+ai-service/venv/
+ai-service/__pycache__/
+*.pyc
+
+# Project uploads, processed results, logs, and temp folders
+uploads/*
+!uploads/.gitkeep
+processed/*
+!processed/.gitkeep
+temp/*
+!temp/.gitkeep
+logs/*.log
+!logs/.gitkeep
+
+# IDE and OS configurations
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Raw favicon folder
+favicon_io imagelabs/
+
+# AI service temp folder
+ai-service/temp/*
+!ai-service/temp/.gitkeep
